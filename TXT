@@ -1,5 +1,5 @@
 Name
-_discord.asteral.is-a.dev
+_discord.jalywn.is-a.dev
 Type
 TXT
 Content
